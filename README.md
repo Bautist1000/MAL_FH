@@ -1,6 +1,10 @@
 ## 1. Analysis
 ### Problem definition
-The chosen topic for the final hand-in is criminal profiling. Based on the crime and victim given, the program is supposed to predict the profile of serial killer.
+The chosen topic for the final hand-in is criminal profiling. Based on the crime and victim given, the program is supposed to predict the profile of serial killer. This project will utilize the motive method called Holmes typology to classify killers. ­Acc­ording to Holmes typology, serial killers can be act-focused (who kill quickly), or process-focused (who kill slowly).  For act-focused killers, killing is simply about the act itself. 
+Within this group, there are two different types: the visionary and the missionary.
+The visionary murders because he hears voices or has visions that direct him to do so(not present in our database). The missionary murders because he believes that he is meant to get rid of a particular group of people.
+Process-focused serial killers get enjoyment from torture and the slow death of their victims. 
+These include three different types of hedonists -- lust, thrill and gain -- and power-seeking killers.
 
 ### Business Objective
 The objective of this project is to assist law enforcement agencies in identifying potential future criminals and assessing an individual's likelihood of engaging in criminal behavior based on tendencies observed in historical data. By leveraging data-driven insights, the goal is to enhance the efficiency and accuracy of criminal investigations, particularly in profiling serial offenders. This approach aims to improve the predictive analysis of behavioral patterns, aid in the identification of potential suspects, and help prioritize investigative resources.

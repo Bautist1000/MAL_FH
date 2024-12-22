@@ -28,3 +28,6 @@ Performance should be measured using the following:
 * Precision and Recall (or F1-score): Especially important in minimizing false positives (e.g., wrongly profiling innocent individuals) and false negatives (missing critical leads).
 * Time-to-Insight: A metric that evaluates how quickly actionable insights are generated.
 
+###Video
+
+Find Video presentation of solution/results here: [Machine Learning Presentation](https://www.youtube.com/watch?v=hH_-rkpCaDY)
